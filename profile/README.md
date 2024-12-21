@@ -1,5 +1,7 @@
 FTC Stormmasters offical repository
 
+Join the [discord](dsc.gg/p516)!
+
 <!--
 
 **Here are some ideas to get you started:**
