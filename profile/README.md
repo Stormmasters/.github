@@ -1,4 +1,4 @@
-FTC Stormmasters offical repository
+FTC STORMMASTERs offical repository
 
 Join the [discord](dsc.gg/p516)!
 
