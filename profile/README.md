@@ -1,4 +1,4 @@
-FTC STORMMASTERS' offical repository
+## FTC STORMMASTERS' offical repository
 
 Visit our [website](https://stormmasters.github.io)!
 
