@@ -1,9 +1,4 @@
 ## FTC STORMMASTERS' offical repository
-
-Visit our [website](https://stormmasters.github.io)!
-
-Join the [discord](https://dsc.gg/p516)!
-
 <!--
 
 **Here are some ideas to get you started:**
